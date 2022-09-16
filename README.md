@@ -1,5 +1,8 @@
 # Magic 8 Ball
 
+## Portrait
+<img src="images/Magic 8 Ball.PNG" width=600px;>
+
 ## COPYRIGHT
 MIT License
 
